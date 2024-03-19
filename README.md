@@ -1,1 +1,1 @@
-# 100-Days-Challenge
+The 100 Days TypeScript Challenge is designed to help developers enhance their TypeScript skills through consistent practice over a period of 100 days. TypeScript is a statically typed superset of JavaScript that brings optional static typing to JavaScript, improving developer productivity and code quality. This challenge aims to deepen participants' understanding of TypeScript concepts, strengthen their problem-solving skills, and build real-world projects using TypeScript.
